@@ -1,0 +1,7 @@
+{
+    "name": "Forbidden Attack Lab",
+    "description": "The hacking lab for Forbidden Attack in GCM mode",
+    "repository": "https://github.com/suam-team/forbidden-attack-lab",
+    "logo": "https://suam.wtf/favicon-32x32.png",
+    "keywords": ["hacking", "lab", "crypto"]
+}
