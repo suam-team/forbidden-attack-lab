@@ -4,7 +4,7 @@ The hacking lab for Forbidden Attack in GCM mode
 
 ## Let Play
 
-Please find a bud in the [app.py](/app.py) file. Then, hack this lab on your own environment. Next, get a real flag [https://forbidden-attack-lab.herokuapp.com/](https:/forbidden-attack-lab.herokuapp.com/). Finally, submit flag on [https://lab.suam.wtf/](https://lab.suam.wtf/).
+Please find a bud in the [app.py](/app.py) file. Then, hack this lab on your own environment. Next, get a real flag [https://forbidden-attack-lab.herokuapp.com/](https://forbidden-attack-lab.herokuapp.com/). Finally, submit flag on [https://lab.suam.wtf/](https://lab.suam.wtf/).
 
 ## Running Locally
 
